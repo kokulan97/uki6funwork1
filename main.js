@@ -12,3 +12,4 @@ $('#stop').click(function(e) {
            sound.stop();
          });
  });
+});
